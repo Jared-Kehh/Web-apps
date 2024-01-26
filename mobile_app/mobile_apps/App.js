@@ -46,7 +46,7 @@ export default function App() {
               gameEngine.swap(entities())
             }}>
             <Text style={{ fontWeight: 'bold', color: 'white', fontSize: 30 }}>
-              START THE GAME BRUH
+              START THE GAME
             </Text>
           </TouchableOpacity>
 
